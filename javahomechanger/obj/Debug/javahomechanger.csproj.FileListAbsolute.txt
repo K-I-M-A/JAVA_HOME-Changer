@@ -1,0 +1,10 @@
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\bin\Debug\javahomechanger.exe.config
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\bin\Debug\javahomechanger.exe
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\bin\Debug\javahomechanger.pdb
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\obj\Debug\javahomechanger.csprojAssemblyReference.cache
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\obj\Debug\javahomechanger.Form1.resources
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\obj\Debug\javahomechanger.Properties.Resources.resources
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\obj\Debug\javahomechanger.csproj.GenerateResource.cache
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\obj\Debug\javahomechanger.csproj.CoreCompileInputs.cache
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\obj\Debug\javahomechanger.exe
+C:\Users\ryo58\source\repos\javahomechanger\javahomechanger\obj\Debug\javahomechanger.pdb
